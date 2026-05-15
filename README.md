@@ -1,0 +1,2 @@
+# 8cd69e5d-rag-ai-pipelines-standard-op
+Complete SOP repository with version control, training checklists, and compliance tracking. Most businesses pay consultants $5k+ to build this.
